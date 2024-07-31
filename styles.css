@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    Padding: 0;
+}
+    .fundo{
+        Background-image: linear-gradient (45deg, #grey, #black);
+        Height: 100vh;
+        color:red  ;
+        Font-family: 'Times New Roman' , times, serif;
+}
+    .Calculadora{
+        Position: absolute;
+        Background-color: rgba(222, 219, 219, 0.7);
+        Top: 50;
+        Left: 50;
+        Transform: translate(-50%,-50%);
+        Border-radius: 15px;
+        Padding: 15px;
+        Font-size: 20px;
+}
